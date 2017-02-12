@@ -1,0 +1,6 @@
+C:\Users\mads\Documents\Visual Studio 2015\Projects\day 1 excercise 1\day1 excercise4\bin\Debug\day1 excercise4.exe.config
+C:\Users\mads\Documents\Visual Studio 2015\Projects\day 1 excercise 1\day1 excercise4\obj\Debug\day1 excercise4.csprojResolveAssemblyReference.cache
+C:\Users\mads\Documents\Visual Studio 2015\Projects\day 1 excercise 1\day1 excercise4\bin\Debug\day1 excercise4.exe
+C:\Users\mads\Documents\Visual Studio 2015\Projects\day 1 excercise 1\day1 excercise4\bin\Debug\day1 excercise4.pdb
+C:\Users\mads\Documents\Visual Studio 2015\Projects\day 1 excercise 1\day1 excercise4\obj\Debug\day1 excercise4.exe
+C:\Users\mads\Documents\Visual Studio 2015\Projects\day 1 excercise 1\day1 excercise4\obj\Debug\day1 excercise4.pdb
