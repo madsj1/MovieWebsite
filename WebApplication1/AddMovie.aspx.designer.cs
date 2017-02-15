@@ -7,36 +7,36 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1 {
+namespace TeamWebSite {
     
     
-    public partial class _Default {
+    public partial class AddPerson {
         
         /// <summary>
-        /// dsMovies control.
+        /// dsMovie control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ObjectDataSource dsMovies;
+        protected global::System.Web.UI.WebControls.ObjectDataSource dsMovie;
         
         /// <summary>
-        /// gvMovie control.
+        /// fvMovie control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvMovie;
+        protected global::System.Web.UI.WebControls.FormView fvMovie;
         
         /// <summary>
-        /// AddMovie control.
+        /// vsMovie control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button AddMovie;
+        protected global::System.Web.UI.WebControls.ValidationSummary vsMovie;
     }
 }
